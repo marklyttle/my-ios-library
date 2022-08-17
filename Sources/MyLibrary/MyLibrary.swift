@@ -1,4 +1,4 @@
-struct Dog {
+public struct Dog {
     var age = 8
     var name = "Roger"
 
